@@ -16,10 +16,10 @@ I'm currently working on a project that aims to track and analyze the sentiments
 
 ### Key Components
 
-Data Collection: Gathering data from social media platforms and news sources using APIs.
-Sentiment Analysis: Utilizing NLP techniques with libraries like NLTK, spaCy, or Hugging Face's Transformers to analyze sentiment.
-Data Visualization: Creating visual representations using Matplotlib, Seaborn, or Plotly to understand trends and correlations.
-Performance Comparison: Comparing sentiment analysis results with actual stock performance data using statistical methods and machine learning models.
+- Data Collection: Gathering data from social media platforms and news sources using APIs.
+- Sentiment Analysis: Utilizing NLP techniques with libraries like NLTK, spaCy, or Hugging Face's Transformers to analyze sentiment.
+- Data Visualization: Creating visual representations using Matplotlib, Seaborn, or Plotly to understand trends and correlations.
+- Performance Comparison: Comparing sentiment analysis results with actual stock performance data using statistical methods and machine learning models.
 
 ## Skills
 
