@@ -11,7 +11,7 @@ I'm Rashid Alouat, I've just wrapped up a data analysis bootcamp and I'm super e
 
 - 🌍 Based in London
 - 📊 Recently completed a data analysis bootcamp
-- 💼 Currently working on a project that tracks and analyzes the sentiments of stocks on social media and news, comparing it to stock performance to find correlations
+- 💼 Currently working on a project that analyses income inequality and political polarisaiton, to measure and analyse correlations.
 
 ## Current Project
 
