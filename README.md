@@ -10,8 +10,9 @@ I'm Rashid Alouat, I've just wrapped up a data analysis bootcamp and I'm super e
 ## About Me
 
 - 🌍 Based in London
-- 📊 Recently completed a data analysis bootcamp
-- 💼 Currently working on a project that analyses income inequality and political polarisaiton, to measure and analyse correlations.
+- 📊 Recently completed a data analysis bootcamp, eager to apply and expand my skills.
+- 💡 Actively seeking opportunities to contribute to data-driven projects!
+- 💼 Currently working on an analytical project investigating the relationship between economic indicators (income inequality and inflation) and political polarisation in OECD countries.
 
 ## Current Project
 
@@ -23,16 +24,18 @@ Income inequality has been a growing concern across developed nations, leading t
 
 ### Key Components
 
-- Data Collection: Gathering data from the World Inequality Database (for Gini statistics) and the Manifesto Project (for ideological polarisation statistics), as well as the Chapel Hill Expert Survey (for deeper polarisation statistics).
-- Data Processing: Utilizing `pandas`, `numpy`, and `statsmodels` for data manipulation and analysis respectively.
-- Data Visualization: Creating visual representations using PowerBI to understand and view trends and correlations.
+- Data Collection: Gathering and merging data from the Manifesto Project Dataset (version 2024a) for party-level ideological positions (rile scores) and electoral performance (pervote), and economic indicators (GINI coefficient and CPI) from OECD datasets.
+- Data Processing: Utilizing `pandas`, `numpy`, and `statsmodels` for data cleaning and transformation; and correlation and regression analysis respectively.
+- Data Visualization: Using `matplotlib` and `seaborn` for initial visualisations in Python. Creating visual representations using PowerBI to understand and view trends and correlations.
 
 ## Skills
 
-- Data Analysis
-- PowerBI
-- Python (pandas, numpy, nltk, statsmodels, and more)
+- Data Analysis & Interpretation
+- Data Visualization (PowerBI, Matplotlib, Seaborn)
+- Python (pandas, numpy, statsmodels, and more)
 - SQL
+- Data Cleaning & Preprocessing
+- Statistical Analysis
 
 ---
 
