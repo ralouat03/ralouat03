@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rashid Alouat, I'm a PPE student at Exeter University - I'm super excited to jump into the data world! 
+I'm Rashid Alouat, a PPE student at Exeter University - I'm super excited to jump into the data world! 
 
 - 📧 Email: rashidalouat@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/rashid-alouat-1b8b77249
