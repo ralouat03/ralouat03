@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-I'm Rashid Alouat, I've just wrapped up a data analysis bootcamp and I'm super excited to jump into the data world! 
+I'm Rashid Alouat, I'm a PPE student at Exeter University - I'm super excited to jump into the data world! 
 
-- 📧 Email: ralouat@proton.me
+- 📧 Email: rashidalouat@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/rashid-alouat-1b8b77249
-- 🖥️ Website: https://sites.google.com/view/rashidalouat
-- 📝 Blog: https://rashidalouat.substack.com/
 
 ## About Me
 
 - 🌍 Based in London
 - 📊 Recently completed a data analysis bootcamp, eager to apply and expand my skills.
+- 💼 Currently studying **Politics, Philosophy, and Economics (BA)** at **Exeter University**
 - 💡 Actively seeking opportunities to contribute to data-driven projects!
-- 💼 Currently working on an analytical project investigating the relationship between economic indicators (income inequality and inflation) and political polarisation in OECD countries.
+
 
 ## Current Project
 
